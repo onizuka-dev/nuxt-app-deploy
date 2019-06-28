@@ -8,6 +8,7 @@
       <h2 class="subtitle">
         My laudable Nuxt.js project
       </h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit illum nesciunt alias dolorem cupiditate possimus provident iste cumque corrupti itaque odio nulla delectus consectetur, at asperiores reprehenderit dicta labore adipisci?</p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
